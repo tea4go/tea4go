@@ -86,15 +86,13 @@
 <!-- block:projects -->
 ### 📌 精选项目
 
-<!-- TODO: 把下面 4 个 REPO_1~REPO_4 替换成你想展示的仓库名（不带用户名前缀），例如 awesome-tool、mini-redis 等。仓库必须是 public 才能正常显示。 -->
-
 <div align="center">
 
-<a href="https://github.com/tea4go/REPO_1"><img alt="REPO_1" src="https://github-readme-stats.vercel.app/api/pin/?username=tea4go&repo=REPO_1&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/tea4go/REPO_2"><img alt="REPO_2" src="https://github-readme-stats.vercel.app/api/pin/?username=tea4go&repo=REPO_2&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/tea4go/gh"><img alt="gh" src="https://github-readme-stats.vercel.app/api/pin/?username=tea4go&repo=gh&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/tea4go/jvms"><img alt="jvms" src="https://github-readme-stats.vercel.app/api/pin/?username=tea4go&repo=jvms&theme=tokyonight&hide_border=true" /></a>
 
-<a href="https://github.com/tea4go/REPO_3"><img alt="REPO_3" src="https://github-readme-stats.vercel.app/api/pin/?username=tea4go&repo=REPO_3&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/tea4go/REPO_4"><img alt="REPO_4" src="https://github-readme-stats.vercel.app/api/pin/?username=tea4go&repo=REPO_4&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/tea4go/openharness-go"><img alt="openharness-go" src="https://github-readme-stats.vercel.app/api/pin/?username=tea4go&repo=openharness-go&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/tea4go/go-freerdp-webconnect"><img alt="go-freerdp-webconnect" src="https://github-readme-stats.vercel.app/api/pin/?username=tea4go&repo=go-freerdp-webconnect&theme=tokyonight&hide_border=true" /></a>
 
 </div>
 <!-- /block:projects -->
